@@ -1,0 +1,16 @@
+.DS_Store
+*.uvguix.*
+*.scvd
+
+# Keil build artifacts
+Listings/
+Objects/
+*.o
+*.d
+*.axf
+*.lnp
+*.map
+*.lst
+*.i
+*.dep
+*.build_log.htm
