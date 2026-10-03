@@ -2,7 +2,7 @@
 
 A bare-metal implementation of Tetris for the LandTiger development board, based on the NXP LPC1768 ARM Cortex-M3 microcontroller.
 
-The project was developed as an extra-credit assignment for the **Computer Architectures** examination at the University of Salerno. It applies interrupt-driven programming and direct peripheral control to implement a complete interactive game on embedded hardware.
+The project was developed as an extra-credit assignment for the **Computer Systems Architecture** course at Politecnico di Torino during the 2025/2026 academic year. It applies interrupt-driven programming and direct peripheral control to implement a complete interactive game on embedded hardware.
 
 ## Features
 
